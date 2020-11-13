@@ -12,7 +12,7 @@ from time import sleep
 username = ""
 password = ""
 url = ""
-courseURL = url + ""
+courseURL = ""
 searchQuery = ""
 ########################
 
